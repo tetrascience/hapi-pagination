@@ -21,10 +21,10 @@
   "dependencies": {
     "@hapi/boom": "^9.1.4",
     "@hapi/hoek": "^9.2.1",
-    "@hapi/joi": "^17.1.1"
+    "joi": "^17.5.0"
   },
   "peerDependencies": {
-    "@hapi/hapi": "^19.0.0 || ^20.0.0"
+    "@hapi/hapi": "^20.0.0"
   },
   "devDependencies": {
     "@hapi/bourne": "^2.0.0",
